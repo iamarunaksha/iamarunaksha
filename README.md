@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunaksha
-- 👀 I’m interested in DSA & Web Development
-- 🌱 I’m currently learning NodeJS (Backend)
+- 👀 I’m a Fullstack Developer, also exploring Android development.
+- 🌱 Primary Tech Stack used : React, Angular, Tailwind CSS, NodeJS
 - 📫 How to reach me - You can drop a mail at sarkararunaksha22@gmail.com
 
 <!---
